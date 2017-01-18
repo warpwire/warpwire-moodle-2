@@ -1,1 +1,2 @@
-# warpwire-moodle-2
+# moodle2
+Warpwire plugin for Moodle 2.
